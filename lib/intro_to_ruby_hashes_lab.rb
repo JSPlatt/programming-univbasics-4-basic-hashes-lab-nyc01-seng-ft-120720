@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {1=> "chicken", 2=> "cow"}
+  { baseball_team: "Yankees"}
   # return a valid hash with any key/value pair of your choice
 end
 
